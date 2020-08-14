@@ -1,4 +1,4 @@
-#YT link for help:https://www.youtube.com/watch?v=1I8MdTszcv8&t=692
+
 fname=str(input("Write your File Name with extention",))
 import speech_recognition as s
 sr=s.Recognizer()
